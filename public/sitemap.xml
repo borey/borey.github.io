@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2013-01-18T00:57:39+07:00</lastmod>
+        <loc>http://limborey.com/blog/2013/01/18/the-little-rack-book/</loc>
+        <lastmod>2013-01-18T15:01:07+07:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2013-01-18T00:57:39+07:00</lastmod>
+        <loc>http://limborey.com/blog/archives/</loc>
+        <lastmod>2013-01-18T15:01:07+07:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
+        <loc>http://limborey.com/</loc>
+        <lastmod>2013-01-18T15:01:07+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://limborey.com/robots.txt</loc>
         <lastmod>2013-01-18T00:57:39+07:00</lastmod>
     </url>
 </urlset>

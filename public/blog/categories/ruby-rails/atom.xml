@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Ruby & Rails | Web Developer]]></title>
+  <link href="http://limborey.com/blog/categories/ruby-rails/atom.xml" rel="self"/>
+  <link href="http://limborey.com/"/>
+  <updated>2013-01-18T15:01:08+07:00</updated>
+  <id>http://limborey.com/</id>
+  <author>
+    <name><![CDATA[Borey Lim]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Little Rack Book]]></title>
+    <link href="http://limborey.com/blog/2013/01/18/the-little-rack-book/"/>
+    <updated>2013-01-18T14:38:00+07:00</updated>
+    <id>http://limborey.com/blog/2013/01/18/the-little-rack-book</id>
+    <content type="html"><![CDATA[<p>Here’s the link to download this free ebook on rack -
+  "The Little Rack Book" <a href="http://goo.gl/dTXCs">http://goo.gl/dTXCs</a></p>
+
+<p>IMPORTANT</p>
+
+<p>You Do NOT Have Rights to Edit, Resell, Copy or Claim Ownership to this Book!
+However…You DO Have the Right to Pass this Book Along to Others Who Might Benefit from it!
+Feel free to share it with your blog readers and give it away as a freebie.</p>
+
+<p>ALL RIGHTS RESERVED: You do not have any rights to sell or profit from this book. All content is to remain unedited and all links must stay in tact as they are. You can not claim any type of ownership without express written permission from the creator and only the creator, Satish Talim. All rights to this book belong to the author only.</p>
+]]></content>
+  </entry>
+  
+</feed>
