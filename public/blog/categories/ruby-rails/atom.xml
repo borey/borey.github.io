@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Ruby & Rails | Web Developer]]></title>
-  <link href="http://limborey.com/blog/categories/ruby-rails/atom.xml" rel="self"/>
-  <link href="http://limborey.com/"/>
-  <updated>2013-01-18T15:01:08+07:00</updated>
-  <id>http://limborey.com/</id>
+  <link href="http://www.limborey.com/blog/categories/ruby-rails/atom.xml" rel="self"/>
+  <link href="http://www.limborey.com/"/>
+  <updated>2013-01-25T14:03:19+07:00</updated>
+  <id>http://www.limborey.com/</id>
   <author>
     <name><![CDATA[Borey Lim]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Little Rack Book]]></title>
-    <link href="http://limborey.com/blog/2013/01/18/the-little-rack-book/"/>
+    <link href="http://www.limborey.com/blog/2013/01/18/the-little-rack-book/"/>
     <updated>2013-01-18T14:38:00+07:00</updated>
-    <id>http://limborey.com/blog/2013/01/18/the-little-rack-book</id>
+    <id>http://www.limborey.com/blog/2013/01/18/the-little-rack-book</id>
     <content type="html"><![CDATA[<p>Here’s the link to download this free ebook on rack -
   "The Little Rack Book" <a href="http://goo.gl/dTXCs">http://goo.gl/dTXCs</a></p>
 
