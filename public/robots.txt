@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.limborey.com/sitemap.xml 
+Sitemap: http://borey.github.io/sitemap.xml 

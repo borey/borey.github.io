@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Web Developer]]></title>
-  <link href="http://www.limborey.com/atom.xml" rel="self"/>
-  <link href="http://www.limborey.com/"/>
-  <updated>2013-12-12T20:12:30+07:00</updated>
-  <id>http://www.limborey.com/</id>
+  <link href="http://borey.github.io/atom.xml" rel="self"/>
+  <link href="http://borey.github.io/"/>
+  <updated>2013-12-12T21:46:57+07:00</updated>
+  <id>http://borey.github.io/</id>
   <author>
     <name><![CDATA[Borey Lim]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Web Design Meetup: CSS Layout]]></title>
-    <link href="http://www.limborey.com/blog/2013/02/03/web-design-meetup-css-layout/"/>
+    <link href="http://borey.github.io/blog/2013/02/03/web-design-meetup-css-layout/"/>
     <updated>2013-02-03T14:15:00+07:00</updated>
-    <id>http://www.limborey.com/blog/2013/02/03/web-design-meetup-css-layout</id>
+    <id>http://borey.github.io/blog/2013/02/03/web-design-meetup-css-layout</id>
     <content type="html"><![CDATA[<p>Web Design Meetup is a small meetup which is iniatated by ShareVisionTeam in order share &amp; study web design together.</p>
 
 <p>For our first meetup, we&rsquo;ve voted to discuss on CSS Layout. I am lucky enough to be the presenter. Here&rsquo;s the slide for this presentation:</p>
@@ -31,9 +31,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Little Rack Book]]></title>
-    <link href="http://www.limborey.com/blog/2013/01/18/the-little-rack-book/"/>
+    <link href="http://borey.github.io/blog/2013/01/18/the-little-rack-book/"/>
     <updated>2013-01-18T14:38:00+07:00</updated>
-    <id>http://www.limborey.com/blog/2013/01/18/the-little-rack-book</id>
+    <id>http://borey.github.io/blog/2013/01/18/the-little-rack-book</id>
     <content type="html"><![CDATA[<p>Here’s the link to download this free ebook on rack &ndash;
   &ldquo;The Little Rack Book&rdquo; <a href="http://goo.gl/dTXCs">http://goo.gl/dTXCs</a></p>
 
