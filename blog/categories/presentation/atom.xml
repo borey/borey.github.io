@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="https://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Presentation | Web Developer]]></title>
-  <link href="http://borey.github.io/blog/categories/presentation/atom.xml" rel="self"/>
-  <link href="http://borey.github.io/"/>
+  <link href="https://borey.github.io/blog/categories/presentation/atom.xml" rel="self"/>
+  <link href="https://borey.github.io/"/>
   <updated>2013-12-12T22:42:32+07:00</updated>
-  <id>http://borey.github.io/</id>
+  <id>https://borey.github.io/</id>
   <author>
     <name><![CDATA[Borey Lim]]></name>
-    
-  </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
 
-  
+  </author>
+  <generator uri="https://octopress.org/">Octopress</generator>
+
+
   <entry>
     <title type="html"><![CDATA[Web Design Meetup: CSS Layout]]></title>
-    <link href="http://borey.github.io/blog/2013/02/03/web-design-meetup-css-layout/"/>
+    <link href="https://borey.github.io/blog/2013/02/03/web-design-meetup-css-layout/"/>
     <updated>2013-02-03T14:15:00+07:00</updated>
-    <id>http://borey.github.io/blog/2013/02/03/web-design-meetup-css-layout</id>
+    <id>https://borey.github.io/blog/2013/02/03/web-design-meetup-css-layout</id>
     <content type="html"><![CDATA[<p>Web Design Meetup is a small meetup which is iniatated by ShareVisionTeam in order share &amp; study web design together.</p>
 
 <p>For our first meetup, we&rsquo;ve voted to discuss on CSS Layout. I am lucky enough to be the presenter. Here&rsquo;s the slide for this presentation:</p>
 
-<p><iframe src="http://www.slideshare.net/slideshow/embed_code/16315764 " width="595" height="446" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen></iframe> </p>
+<p><iframe src="https://www.slideshare.net/slideshow/embed_code/16315764 " width="595" height="446" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen></iframe> </p>
 ]]></content>
   </entry>
-  
+
 </feed>

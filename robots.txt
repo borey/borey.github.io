@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow:
 
-Sitemap: http://borey.github.io/sitemap.xml 
+Sitemap: https://borey.github.io/sitemap.xml

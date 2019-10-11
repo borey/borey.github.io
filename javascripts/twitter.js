@@ -6,7 +6,7 @@
 			speed = 500;
 
 		var linkify = function(text){
-			text = text.replace(/(https?:\/\/)([\w\-:;?&=+.%#\/]+)/gi, '<a href="$1$2">$2</a>').replace(/(^|\W)@(\w+)/g, '$1<a href="http://twitter.com/$2">@$2</a>').replace(/(^|\W)#(\w+)/g, '$1<a href="http://search.twitter.com/search?q=%23$2">#$2</a>');
+			text = text.replace(/(https?:\/\/)([\w\-:;?&=+.%#\/]+)/gi, '<a href="$1$2">$2</a>').replace(/(^|\W)@(\w+)/g, '$1<a href="https://twitter.com/$2">@$2</a>').replace(/(^|\W)#(\w+)/g, '$1<a href="https://search.twitter.com/search?q=%23$2">#$2</a>');
 
 			return text;
 		}
@@ -30,7 +30,7 @@
 				tweet = new Date(date),
 				diff = (((current.getTime() + (1 * 60000)) - tweet.getTime()) / 1000),
 				day_diff = Math.floor(diff / 86400);
-			
+
 			if (day_diff == 0){
 				if (diff < 60) return unit.now;
 				else if (diff < 120) return unit.minute;
